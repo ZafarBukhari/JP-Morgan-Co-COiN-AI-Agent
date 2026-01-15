@@ -30,3 +30,7 @@ Contract review is highly repetitive and follows specific legal logic, making it
 # Short Video Presentation:
 [![Watch the video]](https://www.youtube.com/watch?v=Ah8e8SLcKDE&t)
 
+<HRML><video src="https://github.com/ZafarBukhari/JP-Morgan-Co-COiN-AI-Agent/blob/main/JP_Morgan_COIN_AI.mp4" width="100%" controls></video></HTML>
+
+
+
