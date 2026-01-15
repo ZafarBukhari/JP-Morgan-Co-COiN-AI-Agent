@@ -28,5 +28,5 @@ The bank reduced **360,000 hours of work to seconds**. This improved the speed o
 Contract review is highly repetitive and follows specific legal logic, making it perfect for an AI agent. While the language is dense, the patterns are consistent. This workflow could easily be applied to insurance, real estate, and healthcare.
 
 # Short Video Presentation:
-[![Watch the video](img.youtube.com)](https://www.youtube.com/watch?v=Ah8e8SLcKDE&t)
+[![Watch the video]](https://www.youtube.com/watch?v=Ah8e8SLcKDE&t)
 
