@@ -29,3 +29,4 @@ Contract review is highly repetitive and follows specific legal logic, making it
 
 # Short Video Presentation:
 [![Watch the video](img.youtube.com)](https://www.youtube.com/watch?v=Ah8e8SLcKDE&t)
+
